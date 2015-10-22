@@ -1,0 +1,13 @@
+h1 {
+	color: blue;
+}
+
+.col-3{
+	float: left;
+	width: 10%;
+}
+
+.clear {
+	clear: both;
+}
+
